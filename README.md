@@ -1,5 +1,5 @@
 # Dự án: Hệ thống Bán hàng Online
-**Môn học:** [ngôn ngữ mô hình hoá]
+**Môn học:** [ngôn ngữ mô hình hoá UML]
 **Thành viên nhóm:** [Bùi văn Hạnh,Phạm Duy Thành,Vũ Bá Anh]
 
 ## Mô tả dự án
